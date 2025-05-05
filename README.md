@@ -65,7 +65,13 @@ This project is proposed by **KABAS ENGINEERING** as part of the **ENSIA Group P
 
 **Note**: This project aligns with KABAS ENGINEERING's commitment to innovation and practical AI solutions for industry. Collaboration with ENSIA ensures academic rigor while safeguarding industrial interests.  
 
-For further details, refer to the project documentation or contact the provided email.  
+For further details, refer to the project documentation or contact the provided email.
+
+# MEMBERS:
+-Dib Abdelmounaim (product owner)
+-Belghach brahim
+-Faden akram
+-Sayed ahmed
 
 ---  
 **KABAS ENGINEERING** | **ENSIA Group Project**
