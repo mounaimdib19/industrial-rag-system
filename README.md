@@ -1,6 +1,6 @@
 # industrial-rag-system
 
-# README - On-Premise RAG Application for Industrial Use Cases
+#  On-Premise RAG Application for Industrial Use Cases
 
 ## Project Overview
 This project involves the development of an **On-Premise Retrieval-Augmented Generation (RAG) application** tailored for industrial companies, including those in maintenance, manufacturing, and laboratory sectors. The application enables efficient utilization of technical documents such as manuals, maintenance reports, and regulatory standards without relying on cloud services, ensuring **data confidentiality** and **time-efficient retrieval of critical information**.
